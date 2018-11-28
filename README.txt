@@ -25,6 +25,8 @@ CC2.txt - Consists all the text output
 varHog.txt -Consists all the variance of each image(HOG).
 meanLbpm.txt - Mean values of LBPM vector .
 
+5. getpatch.m
+Gives  series of patches for the input image .
 ----END-----
 
 5.hog_feature_vector.m 
